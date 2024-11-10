@@ -76955,6 +76955,12 @@ __webpack_require__.r(__webpack_exports__);
 window.NVL = _neo4j_nvl_base__WEBPACK_IMPORTED_MODULE_0__.NVL;
 window.ZoomInteraction = _neo4j_nvl_interaction_handlers__WEBPACK_IMPORTED_MODULE_1__.ZoomInteraction;
 window.PanInteraction = _neo4j_nvl_interaction_handlers__WEBPACK_IMPORTED_MODULE_1__.PanInteraction;
+window.DragNodeInteraction = _neo4j_nvl_interaction_handlers__WEBPACK_IMPORTED_MODULE_1__.DragNodeInteraction;
+window.boxSelectInteraction = _neo4j_nvl_interaction_handlers__WEBPACK_IMPORTED_MODULE_1__.BoxSelectInteraction;
+window.clickInteraction = _neo4j_nvl_interaction_handlers__WEBPACK_IMPORTED_MODULE_1__.ClickInteraction;
+window.hoverInteraction = _neo4j_nvl_interaction_handlers__WEBPACK_IMPORTED_MODULE_1__.HoverInteraction;
+window.lassoInteraction = _neo4j_nvl_interaction_handlers__WEBPACK_IMPORTED_MODULE_1__.LassoInteraction;
+window.zoomInteraction = _neo4j_nvl_interaction_handlers__WEBPACK_IMPORTED_MODULE_1__.ZoomInteraction;
 })();
 
 /******/ })()
